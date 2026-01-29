@@ -89,7 +89,10 @@ sauce_password=secret_sauce
 - Intended for practice and demonstration purposes only
 - Chrome browser is used by default
 
-
+### Author
+Azhar Munggaran
+Junior QA Engineer – Manual & Automation
+GitHub: https://github.com/horse327
 
 
 
