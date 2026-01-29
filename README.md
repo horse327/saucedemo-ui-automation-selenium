@@ -97,7 +97,7 @@ Update credentials in:
 
 ## Author
 **Azhar Munggaran**
-**QA Engineer | UI & API Automation**
+QA Engineer | UI & API Automation
 
 
 
