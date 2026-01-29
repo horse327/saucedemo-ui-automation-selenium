@@ -59,7 +59,7 @@ src/test/resources
 ## How to Run
 
 ### 1. Clone the repository
-```bash
+```bash ```
 git clone https://github.com/horse327/saucedemo-ui-automation-selenium.git
 2. Open in IDE
 Open Eclipse / IntelliJ
