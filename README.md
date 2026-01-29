@@ -59,48 +59,38 @@ src/test/resources
 ## How to Run
 
 ### 1. Clone the repository
-```bash ```
+```bash
 git clone https://github.com/horse327/saucedemo-ui-automation-selenium.git
+```
 2. Open in IDE
-Open Eclipse / IntelliJ
+Open the project in Eclipse or IntelliJ IDEA
+Import it as an Existing Maven Project
 
-Import as Existing Maven Project
-
-3. Configure test data
-Update credentials in:
-
-src/test/resources/config.properties
+3. Configure Test Data
+Update credentials in: src/test/resources/config.properties
 Example:
-
 sauce_url=https://www.saucedemo.com/
 sauce_username=standard_user
 sauce_password=secret_sauce
-4. Run tests
-Run testng.xml
-OR
 
-Run individual TestNG test classes
+4. Run Tests
+- Run testng.xml, or
+- Run individual TestNG test classes
 
-Framework Highlights
-Clean Page Object Model (POM) implementation
+### Framework Highlights
+- Clean Page Object Model (POM) implementation
+- Explicit waits to reduce flaky tests
+- Clear separation of concerns (tests vs pages vs setup)
+- Screenshot capture on test failure
+- Easily extendable for new scenarios
 
-Explicit waits to reduce flaky tests
+### Notes
+- This project uses public demo credentials provided by SauceDemo
+- Intended for practice and demonstration purposes only
+- Chrome browser is used by default
 
-Separation of concerns (tests vs pages vs setup)
 
-Screenshot capture on test failure
 
-Easily extendable for new scenarios
 
-Notes
-This project uses public demo credentials provided by SauceDemo
 
-Intended for practice and demonstration only
 
-Chrome browser is used by default
-
-Author
-Azhar Munggaran
-Junior QA Engineer – Manual & Automation
-
-GitHub: https://github.com/horse327
