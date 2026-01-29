@@ -90,8 +90,8 @@ sauce_password=secret_sauce
 - Chrome browser is used by default
 
 ### Author
-Azhar Munggaran
-Junior QA Engineer – Manual & Automation
+**Azhar Munggaran**
+**QA Engineer | UI & API Automation**
 GitHub: https://github.com/horse327
 
 
