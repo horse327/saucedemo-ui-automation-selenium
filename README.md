@@ -59,3 +59,10 @@ src/test/resources
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/horse327/saucedemo-ui-automation-selenium.git
+
+2. Open in IDE
+- Open Eclipse / IntelliJ
+- Import as Existing Maven Project
+
+3. Configure test data
+
