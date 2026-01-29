@@ -67,11 +67,12 @@ Open the project in Eclipse or IntelliJ IDEA
 Import it as an Existing Maven Project
 
 3. Configure Test Data
-Update credentials in: src/test/resources/config.properties
+Update credentials in:
+- src/test/resources/config.properties
 Example:
-sauce_url=https://www.saucedemo.com/
-sauce_username=standard_user
-sauce_password=secret_sauce
+- sauce_url=https://www.saucedemo.com/
+- sauce_username=standard_user
+- sauce_password=secret_sauce
 
 4. Run Tests
    - `testng.xml`, or  
