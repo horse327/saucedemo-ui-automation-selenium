@@ -74,12 +74,12 @@ sauce_username=standard_user
 sauce_password=secret_sauce
 
 4. Run Tests
-- Run testng.xml, or
-- Run individual TestNG test classes
+   - `testng.xml`, or  
+   - Individual TestNG test classes
 
 ---
 
-### Framework Highlights
+## Framework Highlights
 - Clean Page Object Model (POM) implementation
 - Explicit waits to reduce flaky tests
 - Clear separation of concerns (tests vs pages vs setup)
@@ -88,7 +88,7 @@ sauce_password=secret_sauce
 
 ---
 
-### Notes
+## Notes
 - This project uses public demo credentials provided by SauceDemo
 - Intended for practice and demonstration purposes only
 - Chrome browser is used by default
@@ -98,7 +98,6 @@ sauce_password=secret_sauce
 ## Author
 **Azhar Munggaran**
 **QA Engineer | UI & API Automation**
-GitHub: https://github.com/horse327
 
 
 
